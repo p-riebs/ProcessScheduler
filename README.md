@@ -1,4 +1,4 @@
-# CS441/541 Project 4
+# Process Scheduler
 
 ## Author(s):
 
